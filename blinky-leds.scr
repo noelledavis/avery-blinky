@@ -1,6 +1,7 @@
+REMOVE 'C:/Users/Noelle_2/Desktop/Projects/Avery/avery-blinky-leds/blinky-leds.lbr';
 OPEN '~dummy~.lbr';
 CLOSE;
-OPEN 'C:/Users/Noelle_2/Desktop/Projects/Avery/blinky-leds.lbr';
+OPEN 'C:/Users/Noelle_2/Desktop/Projects/Avery/avery-blinky-leds/blinky-leds.lbr';
 Layer 1 Top;
 Layer 16 Bottom;
 Layer 17 Pads;
@@ -2251,7 +2252,7 @@ ATTRIBUTE 'VALUE' ' '
 RENAME SparkFun-Resistors_RESISTOR*? SparkFun-Resistors_RESISTOR;
 Edit '_noelle_3032-RETAINER*?.DEV';
 DESCRIPTION '';
-PREFIX '';
+PREFIX 'BT';
 VALUE Off;
 CHANGE Addlevel  Next;
 CHANGE Swaplevel 0;
