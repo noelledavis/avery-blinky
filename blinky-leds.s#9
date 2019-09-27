@@ -2067,6 +2067,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
+<text x="81.28" y="7.62" size="1.778" layer="91">power to 4017</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="40.64" y="40.64" smashed="yes">

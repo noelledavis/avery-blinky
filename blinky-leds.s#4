@@ -1765,7 +1765,7 @@ white - 3.2 - 160o</text>
 <pinref part="BT2" gate="G$1" pin="+"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="VSS" class="0">
 <segment>
 <pinref part="BT1" gate="G$1" pin="+"/>
 <wire x1="-2.54" y1="25.4" x2="-2.54" y2="17.78" width="0.1524" layer="91"/>
@@ -1798,6 +1798,7 @@ white - 3.2 - 160o</text>
 <wire x1="127" y1="58.42" x2="129.54" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="58.42" x2="129.54" y2="50.8" width="0.1524" layer="91"/>
 <junction x="129.54" y="50.8"/>
+<label x="63.5" y="17.78" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="VDD" class="0">
